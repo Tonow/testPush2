@@ -1,7 +1,19 @@
+test  branche
 test 1
+suppresion de la ligne puis ajout de celle si 
+
+
 
 oups j'avais oublier cette ligne
 
+
+
 ajout d'une ligne
+
+
+
+
+c'est mieux comme ca?
+test_premiere_branche
 
 ligne final
